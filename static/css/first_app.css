@@ -1,0 +1,35 @@
+div#navbarSupportedContent ul li a {
+    color: white;
+    background: goldenrod;
+    border-radius: 50px !important;
+    border: 0px solid transparent !important;
+    padding: 5px 25px;
+
+}
+
+li.nav-item {
+    padding-left: 15px;
+}
+
+button.btn.btn-outline-success {
+    border: 1px solid goldenrod;
+    color: goldenrod;
+    padding: 5px 25px;
+}
+nav.navbar.navbar-expand-lg.bg-light {
+    padding: 0px 50px;
+}
+
+input.form-control.me-2 {
+    border-radius: 50px;
+}
+
+button.btn.btn-outline-success {
+    border-radius: 50px;
+}
+
+ul.dropdown-menu.show {
+    background: none;
+    border: none;
+    margin-top: 25%;
+}
